@@ -1,3 +1,7 @@
+Ethereum Dapp Tutorial Repo following this tutorial:
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f
+
+
 # truffle-init-webpack
 Example webpack project with Truffle. Includes contracts, migrations, tests, user interface and webpack build pipeline.
 
